@@ -1,4 +1,4 @@
-5 - Crie cenários de teste utilizando BDDs para validar nossa api Raromd  https://raromdb-3c39614e42d4.herokuapp.com/swagger
+5 - Crie cenários de teste utilizando BDDs para validar a api Raromd
 
 Regras de negócios: 
 Usuário: 
